@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">FinalProjectPAM</string>
+    <string name="titleapp">Rey.com</string>
+    <string name="namaeventreq">Masukkan nama event anda</string>
+    <string name="alamatreq">Masukkan alamat event anda</string>
+    <string name="deskripsieventreq">Deskripsi event :</string>
+    <string name="penyelenggarareq">Penyelenggara :</string>
+    <string name="waktueventreq">Waktu event :</string>
+    <string name="buatevent">Buat event</string>
+    <string name="tanggaleventreq">Masukkan tanggal event</string>
+    <string name="entry_event">Tambah Siswa</string>
+    <string name="deskripsi_no_item">Tidak ada event saat ini. Tap + untuk buat event</string>
+    <string name="namaeventview">Nama event :</string>
+    <string name="alamateventview">Alamat Event :</string>
+    <string name="deskripsieventview">Deskripsi event :</string>
+    <string name="penyelenggaraview">Penyelenggara :</string>
+    <string name="waktueventview">Waktu event :</string>
+    <string name="tanggaleventview">Tanggal event :</string>
+    <string name="required_field">* required fields</string>
+    <string name="btn_submit">Submit</string>
+    <string name="detail_event">Detail Event</string>
+    <string name="edit_event">Edit Event</string>
+    <string name="back">Back</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="delete">Hapus</string>
+    <string name="update">Edit</string>
+    <string name="attention">Perhatian</string>
+    <string name="tanya">Apakah anda yakin menghapus ini ?</string>
+    <string name="buatcommit">buatcommit</string>
+</resources>
